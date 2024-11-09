@@ -1,0 +1,512 @@
+id,moviw,gener,prce,sum
+AD100,Running the Boards,Adventure,R   ,27.0,20
+AD101,Chairman of the Bored,Adventure,R   ,37.0,22
+AD102,The Bloody Raiders,Adventure,PG  ,33.0,17
+AD103,Men and Their Fish Tales,Adventure,R   ,31.0,24
+AD104,Caught !,Adventure,PG  ,34.0,17
+AD105,The Crocodile Eaters,Adventure,PG  ,26.0,17
+AD202,The Pineapple Trail,Adventure,R   ,20.0,4
+AD203,Searching for Sammy,Adventure,R   ,30.0,6
+AD204,The White Wolf King,Adventure,PG  ,26.0,1
+AD205,Kingdom of The Messiah,Adventure,R   ,24.0,8
+AD206,The Lost Colony of Man,Adventure,PG  ,27.0,1
+AD207,The Mountain Campsite,Adventure,PG  ,19.0,1
+AD304,Where Did the Mammoth Go?,Adventure,R   ,17.0,13
+AD305,The Wild and Wooly Beasts,Adventure,R   ,27.0,15
+AD306,Scratching Fleas,Adventure,PG  ,23.0,10
+AD307,Washing the Cat,Adventure,R   ,21.0,17
+AD308,Attack of the Barbary Pirates,Adventure,PG  ,24.0,10
+AD309,The Black Pearl,Adventure,PG  ,16.0,10
+AD406,The Beautiful Barbarians,Adventure,R   ,15.0,3
+AD407,Trek in the Tall Trees,Adventure,R   ,25.0,5
+AD408,Living Alone in Altuna,Adventure,PG  ,21.0,0
+AD409,Justice Is Carried Out,Adventure,R   ,19.0,7
+AD410,FInding Tracy,Adventure,PG  ,22.0,0
+AD411,Western Shores,Adventure,PG  ,14.0,0
+AD508,Diving for Treasue,Adventure,R   ,15.0,28
+AD509,The Time To Talk Is Now,Adventure,R   ,25.0,30
+AD510,Unto These Worlds ,Adventure,PG  ,21.0,25
+AD511,Fly  Fly Away!,Adventure,R   ,19.0,32
+AD512,Overnight in the Dark,Adventure,PG  ,22.0,25
+AD513,Swirling Dirvishes,Adventure,PG  ,14.0,25
+CH106,Simon Sez Do It,Children,PG  ,21.0,18
+CH107,Sally and the Chimp,Children,G   ,21.0,17
+CH108,Tony Tonka Truckman,Children,G   ,26.0,18
+CH109,Tag!  You're It!,Children,G   ,46.0,29
+CH208,Fantasy World 3,Children,PG  ,14.0,2
+CH209,Silly Rabbit,Children,G   ,14.0,1
+CH210,Baby Woo Woo,Children,G   ,19.0,2
+CH211,Choo Choo Chootrain,Children,G   ,39.0,13
+CH310,Samantha Stone,Children,PG  ,11.0,11
+CH311,Rocky Rock Jr. & Kids,Children,G   ,11.0,10
+CH312,Fantasy World 1,Children,G   ,16.0,11
+CH313,Fantasy World 2,Children,G   ,36.0,22
+CH412,Rodeo Roundup,Children,PG  ,9.0,1
+CH413,Bobby Boatboy,Children,G   ,9.0,0
+CH414,Kylie and Tom,Children,G   ,14.0,1
+CH415,Patty Piglet,Children,G   ,34.0,12
+CH514,Yeller Laberdoodle,Children,PG  ,9.0,26
+CH515,When Pigs Fly,Children,G   ,9.0,25
+CH516,Hog Wild Rock,Children,G   ,14.0,26
+CH517,M2 Transporter,Children,G   ,34.0,37
+CM110,Mighty Mountains,Comedy,PG  ,36.0,17
+CM111,Free Range Ducks,Comedy,PG  ,26.0,22
+CM112,Eclectic Proclivities,Comedy,PG13,27.0,17
+CM113,I'm Baaaaacccckkkkk!,Comedy,PG  ,31.0,18
+CM114,Lighten Up!,Comedy,R   ,31.0,17
+CM115,Atrophy on Its Own Accord,Comedy,R   ,36.0,19
+CM116,The Twinkling,Comedy,PG  ,32.0,17
+CM117,Pluto Loves Venus,Comedy,PG  ,21.0,26
+CM118,Best in Class,Comedy,PG  ,34.0,17
+CM119,Take Me For Granted,Comedy,PG  ,17.0,22
+CM120,Lost and Found,Comedy,PG  ,36.0,20
+CM121,Hog Lagoon Rally,Comedy,R   ,37.0,35
+CM212,Smalltown Kids,Comedy,PG  ,29.0,1
+CM213,Monster Truck Rally,Comedy,PG  ,19.0,6
+CM214,Villains of Villa Toscana,Comedy,PG13,20.0,1
+CM215,Scardey Cat,Comedy,PG  ,24.0,2
+CM216,Spaghetti Sawmill,Comedy,R   ,24.0,1
+CM217,Legal Notices,Comedy,R   ,29.0,3
+CM218,Hookups Don't Just Happen,Comedy,PG  ,25.0,1
+CM219,Bright Truths and Stark Lies,Comedy,PG  ,14.0,10
+CM220,Film at Seven,Comedy,PG  ,27.0,1
+CM221,Meet Me at Monty's,Comedy,PG  ,10.0,6
+CM222,Sizzling Confrontations,Comedy,PG  ,29.0,4
+CM223,Assault of the Killer Giants,Comedy,R   ,30.0,19
+CM314,Sampson Speaks!,Comedy,PG  ,26.0,10
+CM315,One Year Warranty,Comedy,PG  ,16.0,15
+CM316,Trump at Trick Three,Comedy,PG13,17.0,10
+CM317,Misplay Costs Nothing,Comedy,PG  ,21.0,11
+CM318,The Jack of Hearts,Comedy,R   ,21.0,10
+CM319,Bid Two Diamonds,Comedy,R   ,26.0,12
+CM320,Cricket Crunch Munch,Comedy,PG  ,22.0,10
+CM321,Tasty Little Critters,Comedy,PG  ,11.0,19
+CM322,Mix and Mingle,Comedy,PG  ,24.0,10
+CM323,Don't Cramp My Breezy Style!,Comedy,PG  ,7.0,15
+CM324,Up Your Sleeve,Comedy,PG  ,26.0,13
+CM325,First Kiss,Comedy,R   ,27.0,28
+CM416,School for Sale,Comedy,PG  ,24.0,0
+CM417,The Gabby Flock,Comedy,PG  ,14.0,5
+CM418,Lighthouse Cove,Comedy,PG13,15.0,0
+CM419,TurtleReef Tango,Comedy,PG  ,19.0,1
+CM420,Funny Business in the Bahamas,Comedy,R   ,19.0,0
+CM421,In the Depths of Midnight,Comedy,R   ,24.0,2
+CM422,Keep It Simple Simon,Comedy,PG  ,20.0,0
+CM423,Calendar Gals,Comedy,PG  ,9.0,9
+CM424,Totally Alone,Comedy,PG  ,22.0,0
+CM425,Strangers at Paradise Point,Comedy,PG  ,5.0,5
+CM426,40 - Love,Comedy,PG  ,24.0,3
+CM427,Deep  Dark  Dank  Damp Dungeons,Comedy,R   ,25.0,18
+CM518,TattleTales,Comedy,PG  ,24.0,25
+CM519,The Unpopular Authoritarian,Comedy,PG  ,14.0,30
+CM520,Crossing Moon Mountain,Comedy,PG13,15.0,25
+CM521,The Garden Party,Comedy,PG  ,19.0,26
+CM522,Famous Lines Are Forever,Comedy,R   ,19.0,25
+CM523,Fortune in the Dust,Comedy,R   ,24.0,27
+CM524,Samantha Shrew,Comedy,PG  ,20.0,25
+CM525,Take It Back,Comedy,PG  ,9.0,34
+CM526,Help Me I'm Falling In Love,Comedy,PG  ,22.0,25
+CM527,The Associate,Comedy,PG  ,5.0,30
+CM528,Ensnarling Mysteries of Love,Comedy,PG  ,24.0,28
+CM529,Personal Implications,Comedy,R   ,25.0,43
+DC122,How to Go Green,Documentary,NR  ,31.0,18
+DC123,Hurricane Katrina,Documentary,R   ,27.0,17
+DC124,AQI in Iraq,Documentary,PG13,36.0,21
+DC224,The Soviet Union Dissolves,Documentary,NR  ,24.0,2
+DC225,San Francisco Burns,Documentary,R   ,20.0,1
+DC226,Life and Times of George Washington,Documentary,PG13,29.0,5
+DC326,The Decline of the Polar Bears,Documentary,NR  ,21.0,11
+DC327,Hospice Volunteer Training,Documentary,R   ,17.0,10
+DC328,Eight Days in Egypt,Documentary,PG13,26.0,14
+DC428,Mission of the Merchant Marines,Documentary,NR  ,19.0,1
+DC429,History of Guadalacanal,Documentary,R   ,15.0,0
+DC430,Vietnam Veterans Memorial,Documentary,PG13,24.0,4
+DC530,The River Nile,Documentary,NR  ,19.0,26
+DC531,Corn for Ethanol,Documentary,R   ,15.0,25
+DC532,Swine Lagoons,Documentary,PG13,24.0,29
+DR125,All Day Long and Then Some,Drama,NR  ,34.0,17
+DR126,Added Favorites,Drama,PG13,32.0,52
+DR127,Elsewhere Magic,Drama,R   ,31.0,104
+DR128,Your Best Friend,Drama,R   ,34.0,80
+DR129,Bulk and Brawn,Drama,R   ,29.0,40
+DR130,Lace and Chariots,Drama,PG13,31.0,29
+DR131,Lovelace,Drama,PG  ,34.0,69
+DR132,Pansies and Asters,Drama,PG  ,29.0,114
+DR133,The Pink Pig,Drama,R   ,33.0,117
+DR134,Typical Teenagers,Drama,NR  ,37.0,30
+DR135,Why is the Sky Carolina Blue?,Drama,R   ,34.0,114
+DR136,When they call it Window Treatments  It's Expensive!,Drama,PG  ,31.0,52
+DR137,Keys on Kites,Drama,R   ,33.0,74
+DR138,Genie in a Bottle,Drama,R   ,34.0,82
+DR139,Bug Bites,Drama,R   ,37.0,95
+DR140,TIckle My Tummy,Drama,R   ,34.0,84
+DR141,The Last Mile,Drama,PG  ,33.0,65
+DR142,In the Heart of the Sun,Drama,PG  ,34.0,61
+DR143,Man of the Century,Drama,R   ,31.0,127
+DR144,Sailor Sam,Drama,PG  ,32.0,137
+DR145,Purty Little Kitties,Drama,PG13,37.0,17
+DR146,Southern Stables,Drama,PG13,31.0,47
+DR147,Midnight at the Corner of Madness,Drama,R   ,29.0,29
+DR148,Swinging on the Porch in Savannah,Drama,PG13,33.0,69
+DR149,Singapore Swing,Drama,PG  ,27.0,117
+DR150,Material Witness,Drama,R   ,32.0,99
+DR151,That IS the Question,Drama,R   ,31.0,49
+DR152,To Kill or Not To Kill,Drama,R   ,32.0,72
+DR153,Bye Bye Baby,Drama,R   ,32.0,61
+DR154,Handsome Hanover,Drama,PG  ,32.0,39
+DR155,I Love Paris!,Drama,PG13,35.0,82
+DR156,Blue Haze,Drama,R   ,32.0,65
+DR157,On the Open Seas,Drama,NR  ,31.0,140
+DR227,Firestorm,Drama,NR  ,27.0,1
+DR228,Recycling Bob,Drama,PG13,25.0,36
+DR229,One Life to Lose,Drama,R   ,24.0,88
+DR230,The Big Freeze,Drama,R   ,27.0,64
+DR231,Highwire Happenings,Drama,R   ,22.0,24
+DR232,Dinosaurs Under Fire,Drama,PG13,24.0,13
+DR233,White Rose,Drama,PG  ,27.0,53
+DR234,Return of the Rex,Drama,PG  ,22.0,98
+DR235,The Runaway,Drama,R   ,26.0,101
+DR236,Squadron,Drama,NR  ,30.0,14
+DR237,Division Divide,Drama,R   ,27.0,98
+DR238,Temper Tantrum Tango,Drama,PG  ,24.0,36
+DR239,The Gardener of the Month,Drama,R   ,26.0,58
+DR240,Tax Wars,Drama,R   ,27.0,66
+DR241,Terror in Thailand,Drama,R   ,30.0,79
+DR242,Portrait of a Pitcher,Drama,R   ,27.0,68
+DR243,The Gamecocks,Drama,PG  ,26.0,49
+DR244,Life Eternal,Drama,PG  ,27.0,45
+DR245,Beach Blanket BabySitters,Drama,R   ,24.0,111
+DR246,Rock On Molly Morgan,Drama,PG  ,25.0,121
+DR247,Hannah's Lover,Drama,PG13,30.0,1
+DR248,Apollo and Kathryn,Drama,PG13,24.0,31
+DR249,Kill Me With Kindness,Drama,R   ,22.0,13
+DR250,Cancel that Reservation,Drama,PG13,26.0,53
+DR251,Motel Bombshell,Drama,PG  ,20.0,101
+DR252,Paper Route,Drama,R   ,25.0,83
+DR253,Mermaid Madness,Drama,R   ,24.0,33
+DR254,Marriage of Sam and Samantha,Drama,R   ,25.0,56
+DR255,Kathy Joyner,Drama,R   ,25.0,45
+DR256,Kids on a Rope,Drama,PG  ,25.0,23
+DR257,Mommy's Little Ones,Drama,PG13,28.0,66
+DR258,Take Me Downtown,Drama,R   ,25.0,49
+DR259,Red Storm Warning,Drama,NR  ,24.0,124
+DR329,Send Sally My Love,Drama,NR  ,24.0,10
+DR330,Kentucky Kinsmen,Drama,PG13,22.0,45
+DR331,The Furious Bomber,Drama,R   ,21.0,97
+DR332,Last To Leave,Drama,R   ,24.0,73
+DR333,First To Arrive,Drama,R   ,19.0,33
+DR334,Yearly Physical Check-Up,Drama,PG13,21.0,22
+DR335,Tanglewood Tales of Terror,Drama,PG  ,24.0,62
+DR336,Bounty Hunter,Drama,PG  ,19.0,107
+DR337,Set Sail,Drama,R   ,23.0,110
+DR338,Batter Up!,Drama,NR  ,27.0,23
+DR339,Lock and Load,Drama,R   ,24.0,107
+DR340,Angels of Mercy,Drama,PG  ,21.0,45
+DR341,Martha's Mission,Drama,R   ,23.0,67
+DR342,The Lady of Vienna,Drama,R   ,24.0,75
+DR343,The Wizard of Georgetown,Drama,R   ,27.0,88
+DR344,The Handling of Jonathan,Drama,R   ,24.0,77
+DR345,Beyond the Horizon,Drama,PG  ,23.0,58
+DR346,Up Against the Wall,Drama,PG  ,24.0,54
+DR347,Full as a Tick in a Blood Bank,Drama,R   ,21.0,120
+DR348,All the Marbles,Drama,PG  ,22.0,130
+DR349,Singing with the Celebrities,Drama,PG13,27.0,10
+DR350,Helping Hands,Drama,PG13,21.0,40
+DR351,Caring for Sarah,Drama,R   ,19.0,22
+DR352,Love and Laughter,Drama,PG13,23.0,62
+DR353,Loving Tenderness,Drama,PG  ,17.0,110
+DR354,Mortal Mercies,Drama,R   ,22.0,92
+DR355,Nurse Tonya,Drama,R   ,21.0,42
+DR356,The Office Manager Will Die Tonight,Drama,R   ,22.0,65
+DR357,Rappers in Rutherford,Drama,R   ,22.0,54
+DR358,Tango in Thailand,Drama,PG  ,22.0,32
+DR359,The TSA Warnings,Drama,PG13,25.0,75
+DR360,Served with a Smile,Drama,R   ,22.0,58
+DR361,Fettucini and A Salad,Drama,NR  ,21.0,133
+DR431,Taming The Tomboy,Drama,NR  ,22.0,0
+DR432,Catch the Fast Ball,Drama,PG13,20.0,35
+DR433,Out of My Reach,Drama,R   ,19.0,87
+DR434,Maid in Heaven,Drama,R   ,22.0,63
+DR435,The Lost Cause,Drama,R   ,17.0,23
+DR436,The Last Laugh,Drama,PG13,19.0,12
+DR437,Silicon Valley Syndrome,Drama,PG  ,22.0,52
+DR438,Valley of the Mortals,Drama,PG  ,17.0,97
+DR439,Leisurely Laughs of Life,Drama,R   ,21.0,100
+DR440,Metro Murders,Drama,NR  ,25.0,13
+DR441,Women Unite!,Drama,R   ,22.0,97
+DR442,Puffy Clouds,Drama,PG  ,19.0,35
+DR443,Dark Reaches of My Mind,Drama,R   ,21.0,57
+DR444,Houston  We Have Trouble!,Drama,R   ,22.0,65
+DR445,Project Dallas,Drama,R   ,25.0,78
+DR446,Jumping Beans,Drama,R   ,22.0,67
+DR447,Scared Stupid,Drama,PG  ,21.0,48
+DR448,Baby Pancakes,Drama,PG  ,22.0,44
+DR449,Monsters Under the Bed,Drama,R   ,19.0,110
+DR450,Tales from the Afterlife,Drama,PG  ,20.0,120
+DR451,Death Is Certain,Drama,PG13,25.0,0
+DR452,One Son  One Daughter,Drama,PG13,19.0,30
+DR453,The Golden Sun,Drama,R   ,17.0,12
+DR454,Southern Style Yummy,Drama,PG13,21.0,52
+DR455,Cornbread and Dumplings,Drama,PG  ,15.0,100
+DR456,White Grapefuit and Cornflowers,Drama,R   ,20.0,82
+DR457,The Plump Pumpkin,Drama,R   ,19.0,32
+DR458,Text Me,Drama,R   ,20.0,55
+DR459,Gentleman's Poker,Drama,R   ,20.0,44
+DR460,The Warrant Officer,Drama,PG  ,20.0,22
+DR461,Love Is Blind,Drama,PG13,23.0,65
+DR462,Once Upon A Nightmare,Drama,R   ,20.0,48
+DR463,A Lifetime Ago,Drama,NR  ,19.0,123
+DR533,Company Politics,Drama,NR  ,22.0,25
+DR534,Cozy By Candlelight ,Drama,PG13,20.0,60
+DR535,Poplar Bluff Police,Drama,R   ,19.0,112
+DR536,Designing Devils,Drama,R   ,22.0,88
+DR537,Hop Aboard the Express ,Drama,R   ,17.0,48
+DR538,Sleep Silently  My Love,Drama,PG13,19.0,37
+DR539,Over to Grannie's,Drama,PG  ,22.0,77
+DR540,The Horse Sleigh,Drama,PG  ,17.0,122
+DR541,Bells  Chimes and Windmills,Drama,R   ,21.0,125
+DR542,Twinkle  Twinkle  Little Blue Eyes,Drama,NR  ,25.0,38
+DR543,Back Where We Belong,Drama,R   ,22.0,122
+DR544,Looking Swell  Smitty,Drama,PG  ,19.0,60
+DR545,Night of the Limo Driver,Drama,R   ,21.0,82
+DR546,Transport All Goods,Drama,R   ,22.0,90
+DR547,Take Part in the Action,Drama,R   ,25.0,103
+DR548,Enter the Race,Drama,R   ,22.0,92
+DR549,Silly Putty Animals,Drama,PG  ,21.0,73
+DR550,What Stays in Vegas,Drama,PG  ,22.0,69
+DR551,It Never Happened,Drama,R   ,19.0,135
+DR552,Shake  Rattle and Shoot,Drama,PG  ,20.0,145
+DR553,A Magnum of Champagne,Drama,PG13,25.0,25
+DR554,Winterville Wine Festival,Drama,PG13,19.0,55
+DR555,Pick Your Own Strawberry Fields,Drama,R   ,17.0,37
+DR556,The Draft Strawman,Drama,PG13,21.0,77
+DR557,The Advisor,Drama,PG  ,15.0,125
+DR558,Teacher's Favorite,Drama,R   ,20.0,107
+DR559,Dormitory Dummies,Drama,R   ,19.0,57
+DR560,Comedy of Love,Drama,R   ,20.0,80
+DR561,Keys to His Heart,Drama,R   ,20.0,69
+DR562,Food  Glorious Food!,Drama,PG  ,20.0,47
+DR563,Golden Silk,Drama,PG13,23.0,90
+DR564,The Crystal Mountain,Drama,R   ,20.0,73
+DR565,Helen's Voyages,Drama,NR  ,19.0,148
+EX158,Yoga Feels SOOOOO Good!,Exercise,G   ,27.0,27
+EX159,Workout at the Office,Exercise,G   ,23.0,17
+EX160,Swimming with the Dolphins,Exercise,G   ,15.0,17
+EX260,Workout with Wally,Exercise,G   ,20.0,11
+EX261,Running Clear Across America,Exercise,G   ,16.0,1
+EX262,Stairsteps to Heaven,Exercise,G   ,8.0,1
+EX362,Sweatin' to the Summer Breeze,Exercise,G   ,17.0,20
+EX363,The Yoga Stretch Workout,Exercise,G   ,13.0,10
+EX364,Workout at Your PC,Exercise,G   ,5.0,10
+EX464,Rock and Roll and Stretch and Lift,Exercise,G   ,15.0,10
+EX465,Simple Ways to Slender,Exercise,G   ,11.0,0
+EX466,Body for Life,Exercise,G   ,3.0,0
+EX566,Climbing to New Heights,Exercise,G   ,15.0,35
+EX567,Workout for Life,Exercise,G   ,11.0,25
+EX568,Exercises at the Laptop,Exercise,G   ,3.0,25
+FN161,On Top of the Clouds,Fantasy,R   ,34.0,17
+FN162,The Witches Coven and Paula,Fantasy,G   ,35.0,17
+FN163,Into the Bunny Hatch,Fantasy,PG  ,34.0,17
+FN164,The Elven Circle,Fantasy,PG13,34.0,17
+FN263,Ruthless Trolls and Evil Giants,Fantasy,R   ,27.0,1
+FN264,The Elf Bride,Fantasy,G   ,28.0,1
+FN265,Switching Shapes Swiftly,Fantasy,PG  ,27.0,1
+FN266,Inside the Rings of Saturn,Fantasy,PG13,27.0,1
+FN365,Cries of Teeny Creatures,Fantasy,R   ,24.0,10
+FN366,Solar Skies,Fantasy,G   ,25.0,10
+FN367,A Future More Beautiful,Fantasy,PG  ,24.0,10
+FN368,Timber Wolves,Fantasy,PG13,24.0,10
+FN467,The White Dragon of Ezalar,Fantasy,R   ,22.0,0
+FN468,Dragonhunt,Fantasy,G   ,23.0,0
+FN469,War Between Good and Evil,Fantasy,PG  ,22.0,0
+FN470,A Warlock's Home,Fantasy,PG13,22.0,0
+FN569,Pirates' Code,Fantasy,R   ,22.0,25
+FN570,Wizards First Rules,Fantasy,G   ,23.0,25
+FN571,Witches Brew,Fantasy,PG  ,22.0,25
+FN572,The Warrior Queen,Fantasy,PG13,22.0,25
+FR165,Day or Night,Foreign,R   ,32.0,17
+FR166,Justine's Tavern,Foreign,PG  ,34.0,17
+FR167,Break in the Dam,Foreign,R   ,27.0,17
+FR168,Fraud in a Foreign Land,Foreign,NR  ,41.0,117
+FR169,Identify Theft,Foreign,NR  ,51.0,117
+FR267,Whisper At Night,Foreign,R   ,25.0,1
+FR268,A Soldier's Return,Foreign,PG  ,27.0,1
+FR269,Zeus for a Day,Foreign,R   ,20.0,1
+FR270,The Eccentric Man,Foreign,NR  ,34.0,101
+FR271,Caught on Camera,Foreign,NR  ,44.0,101
+FR369,Stand and Fight,Foreign,R   ,22.0,10
+FR370,Take Back the Light,Foreign,PG  ,24.0,10
+FR371,Turn Off the Dark,Foreign,R   ,17.0,10
+FR372,In Darkness and Misery,Foreign,NR  ,31.0,110
+FR373,Other Lives Lived,Foreign,NR  ,41.0,110
+FR471,Crazy Comrade,Foreign,R   ,20.0,0
+FR472,Killing My Soul,Foreign,PG  ,22.0,0
+FR473,Sing Sweetly,Foreign,R   ,15.0,0
+FR474,Land of the Angels,Foreign,NR  ,29.0,100
+FR475,See the Future,Foreign,NR  ,39.0,100
+FR573,A Ruthless Killer,Foreign,R   ,20.0,25
+FR574,Ricky's Routines,Foreign,PG  ,22.0,25
+FR575,Night or Day,Foreign,R   ,15.0,25
+FR576,Heavenly Hands,Foreign,NR  ,29.0,125
+FR577,Over and Above,Foreign,NR  ,39.0,125
+HR170,Beyond Death,Thriller,R   ,31.0,26
+HR171,Serial Killer for Breakfast,Thriller,R   ,26.0,21
+HR172,Does Madness Come First?,Thriller,NR  ,28.0,17
+HR173,The Lost Soul,Thriller,R   ,29.0,20
+HR174,Spider Sandwich,Thriller,R   ,33.0,17
+HR175,Fear Me Now,Thriller,PG  ,34.0,23
+HR176,Murder at the Discount Motel,Thriller,R   ,26.0,18
+HR177,Murder is Final,Thriller,PG  ,31.0,17
+HR178,What's Loose in the Sanitorium?,Thriller,R   ,21.0,30
+HR179,Mystery of the Lost Lagoon,Thriller,R   ,51.0,17
+HR180,ShapeChangers,Thriller,R   ,31.0,32
+HR272,Psycho Nightmare,Thriller,R   ,24.0,10
+HR273,Temper Me Massacre,Thriller,R   ,19.0,5
+HR274,The Claw,Thriller,NR  ,21.0,1
+HR275,War Between Worlds,Thriller,R   ,22.0,4
+HR276,Sing Me A Lullaby,Thriller,R   ,26.0,1
+HR277,Slap Me Psycho,Thriller,PG  ,27.0,7
+HR278,Stand Up,Thriller,R   ,19.0,2
+HR279,Night of the Demon Dead,Thriller,PG  ,24.0,1
+HR280,Chain Saws and Axes for Sally,Thriller,R   ,14.0,14
+HR281,Skin Him Alive,Thriller,R   ,44.0,1
+HR282,Yum Yum Twinkletoes,Thriller,R   ,24.0,16
+HR374,Turn Around Slowly,Thriller,R   ,21.0,19
+HR375,The Blind Eye,Thriller,R   ,16.0,14
+HR376,The Eternal Nighttime,Thriller,NR  ,18.0,10
+HR377,Nickel Nightmares ,Thriller,R   ,19.0,13
+HR378,Boat Bathers,Thriller,R   ,23.0,10
+HR379,Spiders at Sea,Thriller,PG  ,24.0,16
+HR380,Ocean Wave Runners,Thriller,R   ,16.0,11
+HR381,The Children's Game,Thriller,PG  ,21.0,10
+HR382,Cancel My Flight,Thriller,R   ,11.0,23
+HR383,Anacondas Away,Thriller,R   ,41.0,10
+HR384,Alligator Alleyway,Thriller,R   ,21.0,25
+HR476,Children of the Deep,Thriller,R   ,19.0,9
+HR477,The Mommy Murders,Thriller,R   ,14.0,4
+HR478,Face Your Fears,Thriller,NR  ,16.0,0
+HR479,Fear of the Unknown,Thriller,R   ,17.0,3
+HR480,Speak Softly and Carry a Big Stick,Thriller,R   ,21.0,0
+HR481,Psycho Babes in the Bahamas,Thriller,PG  ,22.0,6
+HR482,Pretty is as Pretty Does,Thriller,R   ,14.0,1
+HR483,You Never Know What You'll Get,Thriller,PG  ,19.0,0
+HR484,Your Choice,Thriller,R   ,9.0,13
+HR485,Your Worst Nightmare,Thriller,R   ,39.0,0
+HR486,Take It Away!,Thriller,R   ,19.0,15
+HR578,The Lost Child,Thriller,R   ,19.0,34
+HR579,S is for Scream!,Thriller,R   ,14.0,29
+HR580,R is for Run!,Thriller,NR  ,16.0,25
+HR581,40 Seconds to Hell,Thriller,R   ,17.0,28
+HR582,Run For Your Very Life,Thriller,R   ,21.0,25
+HR583,Hide!,Thriller,PG  ,22.0,31
+HR584,T is for Terror!,Thriller,R   ,14.0,26
+HR585,The Shower Sonata,Thriller,PG  ,19.0,25
+HR586,Candlelight Wars,Thriller,R   ,9.0,38
+HR587,Kansas City Killers,Thriller,R   ,39.0,25
+HR588,Kentucky Crossroads,Thriller,R   ,19.0,40
+MU181,Paint Your Picture,Musical,NR  ,31.0,68
+MU182,Drifting Sideways,Musical,G   ,31.0,52
+MU183,Rolling Down the River,Musical,NR  ,34.0,91
+MU184,The Samba!,Musical,PG  ,32.0,114
+MU185,Bluebloods All,Musical,NR  ,37.0,90
+MU186,Upper East Manhattan,Musical,PG13,32.0,106
+MU187,Roller Coaster Ride,Musical,G   ,34.0,117
+MU283,Karaoke Cabana,Musical,NR  ,24.0,52
+MU284,Love and Life,Musical,G   ,24.0,36
+MU285,Singing in the Snow Shower,Musical,NR  ,27.0,75
+MU286,Rapdance,Musical,PG  ,25.0,98
+MU287,Jingle Bell Tango,Musical,NR  ,30.0,74
+MU288,A Musical Revue,Musical,PG13,25.0,90
+MU289,St. Louie Blues,Musical,G   ,27.0,101
+MU385,Triumph and Glory,Musical,NR  ,21.0,61
+MU386,The Day the Music Died,Musical,G   ,21.0,45
+MU387,Papa Taught Me To Dance,Musical,NR  ,24.0,84
+MU388,The Last Dance,Musical,PG  ,22.0,107
+MU389,Bye Bye Miss American Pie,Musical,NR  ,27.0,83
+MU390,Good Ol' Boys,Musical,PG13,22.0,99
+MU391,Top Dog on the Porch,Musical,G   ,24.0,110
+MU487,Howdy Do Ma'am,Musical,NR  ,19.0,51
+MU488,Wall Street Roars,Musical,G   ,19.0,35
+MU489,Lover's Lyrics,Musical,NR  ,22.0,74
+MU490,Laughter and Moonshine,Musical,PG  ,20.0,97
+MU491,Moonglow,Musical,NR  ,25.0,73
+MU492,Appalachian Mountain High,Musical,PG13,20.0,89
+MU493,Cheasapeake Crabby Carnival,Musical,G   ,22.0,100
+MU589,Paddle the Canoe,Musical,NR  ,19.0,76
+MU590,Sitting Ducks,Musical,G   ,19.0,60
+MU591,Chicago Triumphs,Musical,NR  ,22.0,99
+MU592,East and West,Musical,PG  ,20.0,122
+MU593,Sax and Strings,Musical,NR  ,25.0,98
+MU594,Bee Bonnet Sonnets,Musical,PG13,20.0,114
+MU595,Cape Lookout,Musical,G   ,22.0,125
+SF188,Attack of the Killer Whale,Sci-Fi,G   ,24.0,17
+SF189,Martian Madness,Sci-Fi,R   ,34.0,27
+SF190,Sun  Moon and Stars,Sci-Fi,PG13,41.0,20
+SF191,Spatial Wars,Sci-Fi,PG  ,31.0,17
+SF192,2025,Sci-Fi,PG13,33.0,17
+SF193,Starstruck,Sci-Fi,R   ,44.0,22
+SF194,Rescue in Space,Sci-Fi,G   ,33.0,17
+SF195,Space Station Jupiter,Sci-Fi,PG  ,32.0,17
+SF196,Moon Madness,Sci-Fi,PG  ,32.0,17
+SF197,Evil Madness Returns,Sci-Fi,PG  ,32.0,17
+SF198,High Temperatures,Sci-Fi,PG  ,27.0,17
+SF199,Universal Starfighters,Sci-Fi,PG  ,31.0,19
+SF290,The Daughters of Dracula,Sci-Fi,G   ,17.0,1
+SF291,The Martian and The Earthling,Sci-Fi,R   ,27.0,11
+SF292,The Birds of Alcatraz,Sci-Fi,PG13,34.0,4
+SF293,Beyond Time and Space,Sci-Fi,PG  ,24.0,1
+SF294,Starlight  Starbright,Sci-Fi,PG13,26.0,1
+SF295,Catastrophe of the Comets,Sci-Fi,R   ,37.0,6
+SF296,Frankenstein's Fortune,Sci-Fi,G   ,26.0,1
+SF297,Dracula's Demons,Sci-Fi,PG  ,25.0,1
+SF298,Bridal Nightmare,Sci-Fi,PG  ,25.0,1
+SF299,The Dark Side of Never,Sci-Fi,PG  ,25.0,1
+SF300,Demon Dance Steps,Sci-Fi,PG  ,20.0,1
+SF301,Death to Earthlings!,Sci-Fi,PG  ,24.0,3
+SF392,Lightning Flash,Sci-Fi,G   ,14.0,10
+SF393,Return to Xyzorbo,Sci-Fi,R   ,24.0,20
+SF394,Cosmic Code,Sci-Fi,PG13,31.0,13
+SF395,Cosmic Candelight,Sci-Fi,PG  ,21.0,10
+SF396,Space Mountain Marathon,Sci-Fi,PG13,23.0,10
+SF397,Tiny Bubbles,Sci-Fi,R   ,34.0,15
+SF398,Bloodbath II,Sci-Fi,G   ,23.0,10
+SF399,The Blood Brotherhood,Sci-Fi,PG  ,22.0,10
+SF400,Blood Green,Sci-Fi,PG  ,22.0,10
+SF401,Stark Naked Truths,Sci-Fi,PG  ,22.0,10
+SF402,Bloodbath I,Sci-Fi,PG  ,17.0,10
+SF403,4545,Sci-Fi,PG  ,21.0,12
+SF494,1 000 000 Light Years,Sci-Fi,G   ,12.0,0
+SF495,Godzilla and the Green Tomato,Sci-Fi,R   ,22.0,10
+SF496,Pluto's Return,Sci-Fi,PG13,29.0,3
+SF497,The Galactic Starship,Sci-Fi,PG  ,19.0,0
+SF498,Galaxy Demons,Sci-Fi,PG13,21.0,0
+SF499,Lights Out,Sci-Fi,R   ,32.0,5
+SF500,Fifty False Generations,Sci-Fi,G   ,21.0,0
+SF501,Attack of the Comet Cannibals,Sci-Fi,PG  ,20.0,0
+SF502,Book of the Demon Dead,Sci-Fi,PG  ,20.0,0
+SF503,Twisted,Sci-Fi,PG  ,20.0,0
+SF504,Into the Light,Sci-Fi,PG  ,15.0,0
+SF505,Sister of the 12th Dimension,Sci-Fi,PG  ,19.0,2
+SF596,Pluto Strikes Back,Sci-Fi,G   ,12.0,25
+SF597,Space Station Surprise,Sci-Fi,R   ,22.0,35
+SF598,Saturday Night Sundance,Sci-Fi,PG13,29.0,28
+SF599,Rogue Alien Killers,Sci-Fi,PG  ,19.0,25
+SF600,Lost in Time,Sci-Fi,PG13,21.0,25
+SF601,Time Travel Thompsons,Sci-Fi,R   ,32.0,30
+SF602,Take Me To The Moon and Beyond,Sci-Fi,G   ,21.0,25
+SF603,Venus Rising,Sci-Fi,PG  ,20.0,25
+SF604,Mercury Murders,Sci-Fi,PG  ,20.0,25
+SF605,Saturn's Rings,Sci-Fi,PG  ,20.0,25
+SF606,FX 2099,Sci-Fi,PG  ,15.0,25
+SF607,Awakening of the Cyclops,Sci-Fi,PG  ,19.0,27
+XX200,Racecar Ronnie,Drama,X   ,101.0,103
+XX201,Go On By,Drama,X   ,91.0,53
+XX302,The Township Turnstiles,Drama,X   ,94.0,87
+XX303,Right Front Tackle,Drama,X   ,84.0,37
+XX404,Tartufo,Drama,X   ,91.0,96
+XX405,A Condo in Moscow,Drama,X   ,81.0,46
+XX506,Lawnmower Larry,Drama,X   ,89.0,86
+XX507,Birds Flew Over the Tennis Court,Drama,X   ,79.0,36
+XX608,Beyond River's Edge,Drama,X   ,89.0,111
+XX609,Timber!,Drama,X   ,79.0,61
+
